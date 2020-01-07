@@ -2,7 +2,7 @@ package com.openclassrooms.ideinstall;
 
 public class Test {
 	
-	public static int VAR = 5;
+	public static int VAR = 10;
 
 	public Test() {
 		// TODO Auto-generated constructor stub
